@@ -192,4 +192,4 @@ Instagram: [tarikyilds](https://www.instagram.com/tarikyilds/) | Gmail adresim: 
 	- Malloc ile alan açılırken **sizeof(char)** ile char tipinin byte değeri alınır.
 	- Ardından bu değer s1 pointerının eleman sayısıyla çarpılır.
 	- s1 pointerının değeri dest pointerına atandıktan sonra dest pointerının son indexine null **(\0)** atanır.
-	- Dönüş değeri dest pointerıdır...
+	- Dönüş değeri dest pointerıdır.
