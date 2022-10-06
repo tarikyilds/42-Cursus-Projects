@@ -16,7 +16,6 @@ Projemiz toplamda **44** adet dosyadan oluşmaktadır.
 
 ## Hesaplarımı Takip Edebilirsiniz
 
-TikTok Hesabım: [tarikyilds](https://www.tiktok.com/@tarikyilds) => 100K takipçili resmi hesabım.
 Instagram: [tarikyilds](https://www.instagram.com/tarikyilds/) | Gmail adresim: [tarikyilds@gmail.com](tarikyilds@gmail.com)
 
 ## Kısa Açıklamalar...
